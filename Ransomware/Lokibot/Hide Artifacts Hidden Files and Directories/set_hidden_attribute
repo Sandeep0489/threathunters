@@ -1,9 +1,0 @@
-#Lokibot
-
-hidden attributes set for appdata file
-
-## Query
-
-```
-type_id:8003 and operation:6 and file.path:/.*appdata/ and file.path:/.*.exe/
-```
